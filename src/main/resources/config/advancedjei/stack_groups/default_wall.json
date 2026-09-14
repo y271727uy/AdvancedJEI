@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/wall",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_wall$",
+  "border_color": "#8C8C8C"
+}

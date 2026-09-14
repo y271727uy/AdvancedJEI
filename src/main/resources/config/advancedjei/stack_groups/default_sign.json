@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/sign",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_sign$",
+  "border_color": "#C8A16A"
+}

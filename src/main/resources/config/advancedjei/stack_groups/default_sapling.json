@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/sapling",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_sapling$",
+  "border_color": "#7ED957"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "advancedjei:item_lingering_potion",
+  "type": "group",
+  "enabled": false,
+  "contents": [
+    "minecraft:lingering_potion"
+  ],
+  "border_color": "#DD55FF"
+}

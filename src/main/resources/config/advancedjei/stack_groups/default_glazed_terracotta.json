@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/glazed_terracotta",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_glazed_terracotta$",
+  "border_color": "#D38E5D"
+}

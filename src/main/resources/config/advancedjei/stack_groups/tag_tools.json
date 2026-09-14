@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:tag_tools",
+  "type": "tag",
+  "enabled": false,
+  "tag": "#minecraft:tools",
+  "border_color": "#88CCFF"
+}

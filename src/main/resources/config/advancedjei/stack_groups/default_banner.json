@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/banner",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_banner$",
+  "border_color": "#B38AD8"
+}

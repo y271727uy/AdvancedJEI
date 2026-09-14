@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/glass",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_glass$",
+  "border_color": "#BDEBFF"
+}

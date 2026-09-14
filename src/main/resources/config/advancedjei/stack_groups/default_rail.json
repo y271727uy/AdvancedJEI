@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/rail",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_rail$",
+  "border_color": "#B8A06A"
+}

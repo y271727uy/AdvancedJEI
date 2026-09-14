@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:recipe_enchanted_book",
+  "type": "recipe",
+  "enabled": true,
+  "input_item": "minecraft:enchanted_book",
+  "border_color": "#AA55FF"
+}

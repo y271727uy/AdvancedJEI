@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/stripped_logs",
+  "type": "regex",
+  "enabled": false,
+  "regex": "stripped_.*_log$",
+  "border_color": "#B88A4A"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/sword",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_sword$",
+  "border_color": "#8FB8FF"
+}

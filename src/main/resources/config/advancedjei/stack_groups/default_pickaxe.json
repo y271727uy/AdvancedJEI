@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/pickaxe",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_pickaxe$",
+  "border_color": "#8FB8FF"
+}

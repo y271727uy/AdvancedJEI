@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/hoe",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_hoe$",
+  "border_color": "#8FB8FF"
+}

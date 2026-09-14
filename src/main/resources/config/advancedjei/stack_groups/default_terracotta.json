@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/terracotta",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_terracotta$",
+  "border_color": "#B66A4A"
+}

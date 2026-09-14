@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/raw_material",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_raw$",
+  "border_color": "#B46F4E"
+}

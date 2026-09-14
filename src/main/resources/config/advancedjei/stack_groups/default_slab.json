@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/slab",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_slab$",
+  "border_color": "#9E9E9E"
+}

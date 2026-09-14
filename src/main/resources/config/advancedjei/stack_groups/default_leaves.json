@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/leaves",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_leaves$",
+  "border_color": "#6FD27A"
+}

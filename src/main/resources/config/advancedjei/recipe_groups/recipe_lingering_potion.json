@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:recipe_lingering_potion",
+  "type": "recipe",
+  "enabled": true,
+  "output_item": "minecraft:lingering_potion",
+  "border_color": "#DD55FF"
+}

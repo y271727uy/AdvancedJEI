@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:recipe_repair",
+  "type": "recipe",
+  "enabled": true,
+  "recipe_id_contains": "repair.",
+  "border_color": "#55AAFF"
+}

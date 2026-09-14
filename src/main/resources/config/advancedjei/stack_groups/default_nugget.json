@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/nugget",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_nugget$",
+  "border_color": "#EAD87A"
+}

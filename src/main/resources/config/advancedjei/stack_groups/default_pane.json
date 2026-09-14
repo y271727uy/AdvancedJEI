@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/pane",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_pane$",
+  "border_color": "#BDEBFF"
+}

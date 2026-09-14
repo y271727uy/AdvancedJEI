@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/stairs",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_stairs$",
+  "border_color": "#9E9E9E"
+}

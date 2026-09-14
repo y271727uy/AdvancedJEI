@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/boat",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_boat$",
+  "border_color": "#6EC6FF"
+}

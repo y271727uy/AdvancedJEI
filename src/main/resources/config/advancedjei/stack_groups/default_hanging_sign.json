@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/hanging_sign",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_hanging_sign$",
+  "border_color": "#C8A16A"
+}

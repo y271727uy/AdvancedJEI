@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/fence_gate",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_fence_gate$",
+  "border_color": "#8B5A2B"
+}

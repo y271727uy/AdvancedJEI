@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/axe",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_axe$",
+  "border_color": "#8FB8FF"
+}

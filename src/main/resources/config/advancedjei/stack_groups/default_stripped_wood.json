@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/stripped_wood",
+  "type": "regex",
+  "enabled": false,
+  "regex": "stripped_.*_wood$",
+  "border_color": "#C89A55"
+}

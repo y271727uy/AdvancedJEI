@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:tag_wool",
+  "type": "tag",
+  "enabled": false,
+  "tag": "#minecraft:wool",
+  "border_color": "#FFAAFF"
+}

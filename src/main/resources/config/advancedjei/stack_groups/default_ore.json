@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/ore",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_ore$",
+  "border_color": "#9E9E9E"
+}

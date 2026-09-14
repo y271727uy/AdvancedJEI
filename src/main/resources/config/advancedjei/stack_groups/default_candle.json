@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/candle",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_candle$",
+  "border_color": "#FFF0A8"
+}

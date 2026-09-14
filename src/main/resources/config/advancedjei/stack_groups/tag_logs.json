@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:tag_logs",
+  "type": "tag",
+  "enabled": false,
+  "tag": "#minecraft:logs",
+  "border_color": "#C8A16A"
+}

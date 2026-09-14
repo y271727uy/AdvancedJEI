@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/stained_glass",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_stained_glass$",
+  "border_color": "#8FD2FF"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/carpet",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_carpet$",
+  "border_color": "#D6A3D9"
+}

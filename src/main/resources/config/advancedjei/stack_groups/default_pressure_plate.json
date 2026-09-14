@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/pressure_plate",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_pressure_plate$",
+  "border_color": "#777777"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/concrete",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_concrete$",
+  "border_color": "#A7A7A7"
+}

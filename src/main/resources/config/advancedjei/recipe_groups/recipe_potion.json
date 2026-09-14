@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:recipe_potion",
+  "type": "recipe",
+  "enabled": true,
+  "output_item": "minecraft:potion",
+  "border_color": "#55FFAA"
+}

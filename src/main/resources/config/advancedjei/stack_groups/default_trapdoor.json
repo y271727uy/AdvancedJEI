@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/trapdoor",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_trapdoor$",
+  "border_color": "#9A6A3A"
+}

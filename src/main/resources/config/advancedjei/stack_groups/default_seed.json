@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/seed",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_seeds?$",
+  "border_color": "#7ED957"
+}

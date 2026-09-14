@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:recipe_splash_potion",
+  "type": "recipe",
+  "enabled": true,
+  "output_item": "minecraft:splash_potion",
+  "border_color": "#55DDFF"
+}

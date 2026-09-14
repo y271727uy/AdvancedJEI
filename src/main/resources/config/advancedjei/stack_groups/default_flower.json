@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/flower",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_flower$",
+  "border_color": "#FF93D0"
+}

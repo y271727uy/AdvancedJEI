@@ -1,0 +1,9 @@
+{
+  "id": "advancedjei:item_splash_potion",
+  "type": "group",
+  "enabled": false,
+  "contents": [
+    "minecraft:splash_potion"
+  ],
+  "border_color": "#55DDFF"
+}

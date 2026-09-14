@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/button",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_button$",
+  "border_color": "#777777"
+}

@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/door",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_door$",
+  "border_color": "#9A6A3A"
+}

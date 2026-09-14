@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/wood",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_wood$",
+  "border_color": "#8B5A2B"
+}

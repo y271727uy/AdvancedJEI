@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/shulker_box",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_shulker_box$",
+  "border_color": "#9A63B5"
+}

@@ -1,0 +1,9 @@
+{
+  "id": "advancedjei:item_potion",
+  "type": "group",
+  "enabled": false,
+  "contents": [
+    "minecraft:potion"
+  ],
+  "border_color": "#55FFAA"
+}

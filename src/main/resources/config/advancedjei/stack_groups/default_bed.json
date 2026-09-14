@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/bed",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_bed$",
+  "border_color": "#D75F5F"
+}

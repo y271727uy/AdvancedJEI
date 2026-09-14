@@ -1,0 +1,7 @@
+{
+  "id": "advancedjei:default/shovel",
+  "type": "regex",
+  "enabled": false,
+  "regex": ".*_shovel$",
+  "border_color": "#8FB8FF"
+}
